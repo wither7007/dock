@@ -1,0 +1,106 @@
+apt-get update
+apt-get upgrade
+history
+apt list --installed
+vi
+nano
+ed
+lsblk
+apt list --installed > int
+lt
+ls
+cd mnt
+ls
+ls -a
+cat /etc/os
+cat /etc/os-release 
+history
+lsblk
+udisksctl mount -b /dev/sda
+udisksctl
+cd
+udisksctl
+apt-get install udisks2
+ls
+history
+udisksctl mount -b /dev/sda
+python
+grep
+udisksctl mount -b /dev/sda
+udisksctl
+udisksctl mount -b /dev/sda
+udiskctl
+udisksctl
+udisksctl info
+htop
+snap install htop
+apt install htop
+htop
+history
+udisksctl
+udisksctl info
+systemctl
+tail
+ls | tail
+man
+udisksctl info
+vi
+edlin
+ls
+ls -a
+cd
+apt install vim
+vim
+ls
+ls -a
+vim .bashrc 
+ll
+la
+ll
+l
+ll
+wget
+curl
+apt-get install wget
+apt-get install curl
+ls
+ll
+vim .config/
+ll
+history
+history > h
+vim h
+install -y                 neovim                          git                             zsh                             curl                            wget                            unzip                           tmux            \
+
+apt-get -y install git neovim
+git
+nvim
+nvim --version
+cd /bin
+ll
+ll | less
+ll | nvim -
+u
+cd ..
+lt
+curl "https://raw.githubusercontent.com/wither7007/wsl/master/.bash_aliases" > .bash_aliases
+ll
+source .bash_aliases 
+his
+als
+ll
+curl "https://raw.githubusercontent.com/wither7007/wsl/master/.config/nvim/init.vim" > .vimrc
+v
+lt
+his
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+apt-get install zsh -y
+chsh -s /usr/bin/zsh
+ls
+zsh
+history
+his
+cd all
+his > his
+history
+his

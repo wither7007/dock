@@ -1,0 +1,23 @@
+[?1049h[22;0;0t[22;0t[?1h=[H[2J]11;?[?2004h[?25h[?25l(B[m[H[2J[H[2Japt-get update[K
+apt-get upgrade[K
+history[K
+apt list --installed[K
+vi[K
+nano[K
+ed[K
+lsblk[K
+apt list --installed > int[K
+lt[K
+ls[K
+cd mnt[K
+ls[K
+ls -a[K
+cat /etc/os[K
+cat /etc/os-release [K
+history[K
+lsblk[K
+udisksctl mount -b /dev/sda[K
+udisksctl[K
+cd[K
+udisksctl[K
+(B[0;1;7m[No Name] [+]                                                 1,1            Top]112[2 q]112[2 q[H[?25h[?25l[?1004h[?25h
