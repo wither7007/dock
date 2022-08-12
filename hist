@@ -148,3 +148,19 @@
   148  ll
   149  history
   150  history > hist
+  151  gst
+  152  git add .
+  153  gst
+  154  git commit -am 'updated history'
+  155  history
+  156  apt-get install ripgrep
+  157  se 'git.*co'
+  158  se 'apt'
+  159  apt-get install fd-find
+  160  fd
+  161  fd-find
+  162  history
+  163  apt list --installed > int
+  164  v int
+  165  se 'history'
+  166  history > hist
