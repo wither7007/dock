@@ -1,0 +1,150 @@
+    1  apt-get update
+    2  apt-get upgrade
+    3  history
+    4  apt list --installed
+    5  vi
+    6  nano
+    7  ed
+    8  lsblk
+    9  apt list --installed > int
+   10  lt
+   11  ls
+   12  cd mnt
+   13  ls
+   14  ls -a
+   15  cat /etc/os
+   16  cat /etc/os-release 
+   17  history
+   18  lsblk
+   19  udisksctl mount -b /dev/sda
+   20  udisksctl
+   21  cd
+   22  udisksctl
+   23  apt-get install udisks2
+   24  ls
+   25  history
+   26  udisksctl mount -b /dev/sda
+   27  python
+   28  grep
+   29  udisksctl mount -b /dev/sda
+   30  udisksctl
+   31  udisksctl mount -b /dev/sda
+   32  udiskctl
+   33  udisksctl
+   34  udisksctl info
+   35  htop
+   36  snap install htop
+   37  apt install htop
+   38  htop
+   39  history
+   40  udisksctl
+   41  udisksctl info
+   42  systemctl
+   43  tail
+   44  ls | tail
+   45  man
+   46  udisksctl info
+   47  vi
+   48  edlin
+   49  ls
+   50  ls -a
+   51  cd
+   52  apt install vim
+   53  vim
+   54  ls
+   55  ls -a
+   56  vim .bashrc 
+   57  ll
+   58  la
+   59  ll
+   60  l
+   61  ll
+   62  wget
+   63  curl
+   64  apt-get install wget
+   65  apt-get install curl
+   66  ls
+   67  ll
+   68  vim .config/
+   69  ll
+   70  history
+   71  history > h
+   72  vim h
+   73  install -y                 neovim                          git                             zsh                             curl                            wget                            unzip                           tmux            \
+   74* 
+   75  apt-get -y install git neovim
+   76  git
+   77  nvim
+   78  nvim --version
+   79  cd /bin
+   80  ll
+   81  ll | less
+   82  ll | nvim -
+   83  u
+   84  cd ..
+   85  lt
+   86  curl "https://raw.githubusercontent.com/wither7007/wsl/master/.bash_aliases" > .bash_aliases
+   87  ll
+   88  source .bash_aliases 
+   89  his
+   90  als
+   91  ll
+   92  curl "https://raw.githubusercontent.com/wither7007/wsl/master/.config/nvim/init.vim" > .vimrc
+   93  v
+   94  lt
+   95  his
+   96  sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+   97  apt-get install zsh -y
+   98  chsh -s /usr/bin/zsh
+   99  ls
+  100  zsh
+  101  history
+  102  his
+  103  cd all
+  104  his > his
+  105  history
+  106  his
+  107  lt
+  108  apps
+  109  history
+  110  ls
+  111  lt
+  112  u
+  113  cd all
+  114  history
+  115  history | rg apt
+  116  history | grep apt
+  117  apt list --installed > int
+  118  v int
+  119  v hist
+  120  ll
+  121  v his.txt 
+  122  gst
+  123  u
+  124  find .git
+  125  rm -rf .git/
+  126  gst
+  127  ld
+  128  cd all
+  129  lt
+  130  git init
+  131  git add .
+  132  gst
+  133  git commit -am 'clean linux'
+  134  git config --global user.email "steff007@outlook.com"
+  135  git commit -am 'clean linux'
+  136  git remote add origin git@github.com:wither7007/dock
+  137  git remote -v
+  138  git push -u origin master
+  139  se 'win32'
+  140  lt
+  141  v his.txt 
+  142  ssh-keygen -t ed25519 -C "jimsteffes@outlook.com" #start ssh git
+  143  eval "$(ssh-agent -s)"
+  144  cat ~/.ssh/id_ed25519.pub
+  145  git push -u origin master
+  146  history
+  147  apt list --installed > int
+  148  ll
+  149  history
+  150  history > hist
